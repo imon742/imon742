@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Imon!
+# 💫 Hi, I'm Nazmul!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Completed B.Sc. in Computer Science at Bangladesh University of Business and Technology.<br>🌱 I’m currently learning the ins and outs of Software Quality Assurance.<br>🔭 I’m currently working on mastering mobile and web automation techniques.<br>🤔 I’m looking for help with advanced automation concepts and best practices.<br>
 
 
